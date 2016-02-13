@@ -1,0 +1,4 @@
+*.o
+./GPU/vector_add/vector_add
+*.swp
+
